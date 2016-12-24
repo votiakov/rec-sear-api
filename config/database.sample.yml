@@ -1,0 +1,10 @@
+development:
+  adapter: postgis
+  encoding: unicode
+  postgis_extension: postgis
+  database: recipes_dev
+  pool: 5
+  username:
+  password:
+  su_username:
+  su_password:
